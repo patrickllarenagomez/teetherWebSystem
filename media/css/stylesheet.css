@@ -1,0 +1,17 @@
+
+#footer_info{
+width:1024px;
+margin:0 auto;
+padding-top:25px;
+}
+
+#footer{
+text-align:center;
+border-top:5px solid #dc3f3f;
+height:93px;
+background:#262626;
+float:left;
+width:100%;
+position:fixed;
+bottom:0px;
+}
